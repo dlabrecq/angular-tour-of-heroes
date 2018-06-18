@@ -53,10 +53,10 @@ System.config({
     'ngx-bootstrap/popover': 'npm:ngx-bootstrap/bundles/ngx-bootstrap.umd.min.js',
     'ngx-bootstrap/tooltip': 'npm:ngx-bootstrap/bundles/ngx-bootstrap.umd.min.js',
 
-    'plugin-babel': 'npm:systemjs-plugin-babel/plugin-babel.js',
-    'systemjs-babel-build': 'npm:systemjs-plugin-babel/systemjs-babel-browser.js'
+    // 'plugin-babel': 'npm:systemjs-plugin-babel/plugin-babel.js',
+    // 'systemjs-babel-build': 'npm:systemjs-plugin-babel/systemjs-babel-browser.js'
   },
-  transpiler: 'plugin-babel',
+  // transpiler: 'plugin-babel',
 
   // packages tells the System loader how to load when no filename and/or no extension
   packages: {
